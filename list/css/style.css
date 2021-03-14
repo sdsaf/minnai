@@ -1,0 +1,8 @@
+@charset "utf-8";
+body { padding: 50px;}
+
+.faq h2 { padding: 0 0 10px; font-size: 27px; color: #273238;}
+.faq li { margin: 10px 0 0; height: 25px; line-height: 25px;}
+.faq li span { display:inline-block; margin: 0 9px 0 0; width: 25px; height: 25px; background: #9ee1ff; border-radius:15px 15px 0 15px;  font-size: 11px; color: #3f4b52; text-align: center; line-height: 25px;}
+.faq li a { font-size: 14px; color: #3f4b52;}
+
